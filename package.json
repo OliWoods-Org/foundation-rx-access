@@ -1,0 +1,21 @@
+{
+  "name": "foundation-rx-access",
+  "version": "0.2.0",
+  "description": "AI prescription assistance navigator. 600+ patient assistance programs, 10% enrollment.",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "tsx": "^4.16.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "GPL-3.0"
+}

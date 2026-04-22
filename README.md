@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL-3.0-blue.svg" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL-3.0-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/cost-Free_Forever-green" alt="Free">
   <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
@@ -88,7 +88,7 @@ We welcome contributions! This is open source because we believe in community-dr
 
 ## License
 
-GPL-3.0 -- Free to use, modify, and distribute.
+AGPL-3.0 -- Free to use, modify, and distribute.
 
 ---
 

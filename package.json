@@ -17,5 +17,5 @@
     "tsx": "^4.16.0",
     "vitest": "^2.0.0"
   },
-  "license": "GPL-3.0"
+  "license": "AGPL-3.0"
 }

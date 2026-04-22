@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
   <a href="https://cofounder.software"><img src="https://img.shields.io/badge/Powered_by-CoFounder-06b6d4" alt="Powered by CoFounder"></a>
-  <a href="https://oliwoodsfoundation.org"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="OliWoods Foundation"></a>
+  <a href="https://mama.oliwoods.ai/foundation"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="OliWoods Foundation"></a>
 </p>
 
 ---
@@ -61,7 +61,7 @@ We need domain experts, developers, advocates, and people with lived experience.
 ---
 
 <p align="center">
-  <strong>An <a href="https://oliwoodsfoundation.org">OliWoods Foundation</a> Project</strong>
+  <strong>An <a href="https://mama.oliwoods.ai/foundation">OliWoods Foundation</a> Project</strong>
   <br><em>Open-source AI for humanitarian impact</em>
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Save lives.</sub>
